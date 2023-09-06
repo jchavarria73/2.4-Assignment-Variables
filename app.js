@@ -6,7 +6,7 @@ console.log(x);
     console.log(y)
 }
 
-var life = 100; // This is my life bar NUMBER
+var life = 100; 
 
 life = life - 10;
 
@@ -16,7 +16,7 @@ life = life - 10;
 
 console.log(life);
 
-var name = "Jose"; // This is the name displayed in the game String Variable
+var name = "Jose"; // String Variable
 console.log(name);
 
 const car = {type:"Fiat", model:"500", color:"white"};
