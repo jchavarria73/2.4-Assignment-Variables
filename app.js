@@ -19,5 +19,5 @@ console.log(life);
 var name = "Jose"; // String Variable
 console.log(name);
 
-const car = {type:"Fiat", model:"500", color:"white"};
+const car = {type:"Ford", model:"Ranger", color:"blue"};
 console.log(car);
