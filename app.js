@@ -12,7 +12,7 @@ life = life - 10;
 
 //90
 
-life = life - 10;
+life = life + 10;
 
 console.log(life);
 
