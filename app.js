@@ -3,16 +3,20 @@ console.log(x);
 
 {
     let y = "Block"; // Block Variable
-    console.log(y)
+    console.log(y);
 }
 
-var life = 100; 
+let a = 200;
+let b = 100;
+let z = a + b;
 
-life = life - 10;
+life = z;
 
-//90
+//300
 
-life = life + 10;
+life = z - a;
+
+//100
 
 console.log(life);
 
